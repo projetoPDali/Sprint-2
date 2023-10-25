@@ -11,6 +11,7 @@
 
 <span id="objetivos">
 ## :dart: Objetivos da Sprint
+    
 - Criação da tela de cadastro de usuario
 - Cadatrar usuario pela interface
 - Cadastar Bicicleta pela interface
@@ -46,11 +47,11 @@
 ## :rocket: Entregas
 Nas realizações desta sprint, incluem-se:
 
-Cadastro de usuario 
-Cadastro de Bicicletas com imagens
-Integração de um Filtro de Pesquisa
-Aprimoramento da funcionalidade de Inserção de Endereço
-Autenticação por meio da conta Google
+- Cadastro de usuario 
+- Cadastro de Bicicletas com imagens
+- Integração de um Filtro de Pesquisa
+- Aprimoramento da funcionalidade de Inserção de Endereço
+- Autenticação por meio da conta Google
 
 
 Cadastro de usuario 
