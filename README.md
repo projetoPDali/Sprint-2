@@ -3,20 +3,17 @@
 <h1 align="center">Sprint 2: 02/10/2023 a 26/10/2023</h1>
 
 <p align="center">
-    <a href="#objetivos">Objetivos da sprint</a> &nbsp |&nbsp &nbsp
+    <a href="#objetivos">Objetivos da sprint</a> 
     <a href="#Resumo do trabalho da equipe">Resumo do trabalho da equipe</a> &nbsp |&nbsp &nbsp
     <a href="#entregas">Entregas</a> &nbsp |&nbsp &nbsp
     <a href="#documentação">Documentação</a>
 </p>
 
-
+<span id="objetivos">
 ## :dart: Objetivos da Sprint
 - Criação da tela de cadastro de usuario
 - Cadatrar usuario pela interface
 - Cadastar Bicicleta pela interface
-
-
-<span id="Resumo do trabalho da equipe">
 
 
 <span id="Resumo do trabalho da equipe">
@@ -47,12 +44,33 @@
 <span id="entregas">
         
 ## :rocket: Entregas
-```
-https://youtu.be/iIAjjitAGOg
-```
-<a href="https://youtu.be/iIAjjitAGOg
-"><strong>Assista o video da sprint review clicando aqui </strong></a> 
-   
+Nas realizações desta sprint, incluem-se:
+
+Cadastro de usuario 
+Cadastro de Bicicletas com imagens
+Integração de um Filtro de Pesquisa
+Aprimoramento da funcionalidade de Inserção de Endereço
+Autenticação por meio da conta Google
+
+
+Cadastro de usuario 
+<img src="https://github.com/projetoPDali/Sprint-2/blob/main/Nova%20pasta/cadastro%20de%20usario.jpg" /> 
+
+Cadastro de Bicicletas com imagens
+<img src="https://github.com/projetoPDali/Sprint-2/blob/main/Nova%20pasta/cadastro%20bike.jpg" /> 
+<img src="https://github.com/projetoPDali/Sprint-2/blob/main/Nova%20pasta/cadastro%20de%20bike2.jpg" />  
+
+Integração de um Filtro de Pesquisa
+<img src="https://github.com/projetoPDali/Sprint-2/blob/main/Nova%20pasta/filtro.jpg" />  
+
+
+Aprimoramento da funcionalidade de Inserção de Endereço
+<img src="https://github.com/projetoPDali/Sprint-2/blob/main/Nova%20pasta/endere%C3%A7o.jpg" />  
+
+
+
+Autenticação por meio da conta Google
+<img src="https://github.com/projetoPDali/Sprint-2/blob/main/Nova%20pasta/google.jpg" />  
 
 → [Voltar ao topo](#topo)    
     
@@ -70,25 +88,3 @@ https://youtu.be/iIAjjitAGOg
 
 
 
-
-
-
-
-
-
-
-→ [Voltar ao topo](#topo)
-    
-<span id="entregas">
-        
-## :rocket: Entregas
-
-→ [Voltar ao topo](#topo)    
-    
-<span id="documentação">
-    
-## Documentação:
-
-
-
-→ [Voltar ao topo](#topo)
